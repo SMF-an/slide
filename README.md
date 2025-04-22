@@ -1,4 +1,4 @@
-# Slide https://SMF-an.github.io/slide
+# Slide of Mufan :link: https://SMF-an.github.io/slide
 
 To start the slide show:
 
