@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Slide https://SMF-an.github.io/slide
 
 To start the slide show:
 
